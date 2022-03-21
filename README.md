@@ -1,8 +1,8 @@
-# ConnorScript
+# Femboy Tools
 #### lua script which uses the https://stand.gg api to do stuff with GTAV
 
-# Featurescl
-
+# Features
+#### these are kinda outdated rn - updating soon:tm:
 ## Menu Options
 ##### These options can be seen & used by accessing the script via Stand > Lua Scripts > ConnorScript
 
